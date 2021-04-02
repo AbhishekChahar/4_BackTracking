@@ -1,0 +1,5 @@
+Learnt about rotate function of STL
+
+rotate(v.begin() , v.begin()+NoOfRotations, v.end() );
+
+fill_n(arr, 8, val);
